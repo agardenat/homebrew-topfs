@@ -1,8 +1,8 @@
 class Topfs < Formula
   desc "Live top-N biggest filesystem entries with tree display"
   homepage "https://github.com/agardenat/topfs"
-  url "https://github.com/agardenat/topfs/archive/refs/tags/v1.2.1.tar.gz"
-  sha256 "e35fe309b51ceff7616630289103f95ef31a48ed1eac65809a94c0b2955745ac"
+  url "https://github.com/agardenat/topfs/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "ce214b464a3132ea4d880ad7727bceac362e7d7526ea76dd4dac7ee8277f5d26"
   license "Apache-2.0"
   head "https://github.com/agardenat/topfs.git", branch: "main"
 
